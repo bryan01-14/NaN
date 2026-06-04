@@ -1,0 +1,31 @@
+id,name,age,gender,country,city,interests,activity_log,nb_activities,nb_interests
+1,John Doe,23,Female,France,Paris,"[""cinema"", ""music""]","[""subscribed to streaming service"", ""bought concert ticket"", ""listened to rock music"", ""attended live show""]",4,2
+2,Alice Martin,41,Female,UK,London,"[""science"", ""education"", ""music""]","[""joined study group"", ""listened to rock music"", ""watched tutorial"", ""played guitar"", ""did chemistry experiment""]",5,3
+3,Bob Smith,29,Male,Sénégal,Dakar,"[""fashion"", ""finance"", ""cinema""]","[""bought popcorn"", ""opened savings account"", ""read movie review"", ""read style magazine""]",4,3
+4,Claire Dupont,29,Female,Canada,Toronto,"[""cinema"", ""design"", ""art""]","[""rated film online"", ""created mockup"", ""bought design software"", ""bought painting supplies"", ""attended workshop"", ""visited art gallery""]",6,3
+5,David Nkosi,19,Male,Sénégal,Dakar,"[""technology"", ""photography"", ""design"", ""environment""]","[""bought design software"", ""read tech blog"", ""joined photo contest"", ""planted tree"", ""reduced plastic use""]",5,4
+6,Emma Wilson,50,Male,Nigeria,Lagos,"[""travel"", ""music"", ""fashion"", ""science""]","[""searched best hotels"", ""bought concert ticket"", ""played guitar"", ""visited planetarium"", ""downloaded music album""]",5,4
+7,Fatou Diallo,23,Non-binary,France,Paris,"[""environment"", ""finance"", ""education"", ""music""]","[""planted tree"", ""bought textbook"", ""bought crypto"", ""reduced plastic use""]",4,4
+8,George Chen,28,Male,USA,New York,"[""education"", ""sports"", ""travel"", ""photography""]","[""went jogging"", ""bought textbook"", ""watched football match""]",3,4
+9,Hannah Lee,44,Non-binary,Côte d'Ivoire,Abidjan,"[""music"", ""food"", ""fashion""]","[""ordered food delivery"", ""watched food vlog"", ""bought concert ticket"", ""reviewed meal online"", ""listened to rock music"", ""bought new sneakers""]",6,3
+10,Ibrahim Koné,19,Non-binary,UK,London,"[""fitness"", ""travel""]","[""tracked calories"", ""searched best hotels""]",2,2
+11,Julia Roberts,41,Non-binary,Kenya,Nairobi,"[""politics"", ""environment"", ""food"", ""finance""]","[""reviewed meal online"", ""voted in election"", ""opened savings account"", ""joined cleanup event"", ""reduced plastic use"", ""read finance news""]",6,4
+12,Kevin Brown,21,Non-binary,Mali,Bamako,"[""photography"", ""environment"", ""education""]","[""read climate report"", ""edited photos"", ""watched tutorial"", ""studied for exam"", ""planted tree"", ""joined photo contest"", ""joined cleanup event""]",7,3
+13,Laura Gomez,18,Non-binary,Canada,Toronto,"[""gaming"", ""cooking"", ""health"", ""food""]","[""ordered food delivery"", ""made homemade pasta"", ""meditated 20 minutes""]",3,4
+14,Mohamed Traoré,34,Non-binary,USA,New York,"[""design"", ""fashion""]","[""redesigned portfolio"", ""tried new outfit"", ""watched UX tutorial""]",3,2
+15,Nina Patel,36,Female,Ghana,Accra,"[""technology"", ""politics""]","[""voted in election"", ""bought new laptop""]",2,2
+16,Oscar Silva,39,Non-binary,Kenya,Nairobi,"[""finance"", ""art"", ""music""]","[""read finance news"", ""played guitar"", ""listened to rock music"", ""calculated budget""]",4,3
+17,Priya Sharma,23,Female,UK,London,"[""finance"", ""cooking""]","[""checked stock market"", ""watched cooking show"", ""visited food market""]",3,2
+18,Quentin Dubois,46,Non-binary,USA,New York,"[""sports"", ""environment""]","[""planted tree"", ""went jogging"", ""joined cleanup event"", ""joined gym""]",4,2
+19,Rachel Adams,19,Non-binary,UK,London,"[""cooking"", ""health"", ""environment"", ""fitness""]","[""bought kitchen utensils"", ""made homemade pasta"", ""ran 5km"", ""joined cleanup event"", ""planted tree"", ""meditated 20 minutes""]",6,4
+20,Samuel Ouédraogo,28,Non-binary,Côte d'Ivoire,Abidjan,"[""fashion"", ""sports""]","[""tried new outfit"", ""played basketball"", ""watched fashion show""]",3,2
+21,Tina Turner,40,Female,Ghana,Accra,"[""sports"", ""education"", ""food""]","[""ordered food delivery"", ""played basketball"", ""took online course"", ""studied for exam"", ""bought textbook"", ""watched food vlog""]",6,3
+22,Umar Hassan,35,Non-binary,Kenya,Nairobi,"[""education"", ""environment""]","[""read climate report"", ""took online course"", ""planted tree""]",3,2
+23,Viviane Kouassi,29,Male,UK,London,"[""fashion"", ""technology"", ""photography"", ""politics""]","[""took landscape photos"", ""joined civic group"", ""watched AI talk"", ""watched fashion show"", ""browsed online shop"", ""voted in election""]",6,4
+24,William Zhang,32,Non-binary,Kenya,Nairobi,"[""environment"", ""sports"", ""science"", ""art""]","[""attended workshop"", ""planted tree"", ""bought painting supplies"", ""went jogging"", ""joined gym"", ""did chemistry experiment"", ""recycled waste""]",7,4
+25,Xena Park,28,Male,France,Paris,"[""politics"", ""literature"", ""cooking""]","[""visited library"", ""visited food market"", ""wrote book review"", ""joined civic group"", ""bought new book""]",5,3
+26,Yannick Mensah,38,Non-binary,Sénégal,Dakar,"[""literature"", ""art"", ""cooking"", ""environment""]","[""watched art documentary"", ""attended workshop"", ""bought kitchen utensils""]",3,4
+27,Zara Ahmed,39,Male,UK,London,"[""cinema"", ""education""]","[""studied for exam"", ""watched tutorial"", ""subscribed to streaming service"", ""read movie review"", ""bought textbook""]",5,2
+28,Amara Diop,21,Female,UK,London,"[""food"", ""education"", ""science"", ""fashion""]","[""tried street food"", ""studied for exam"", ""reviewed meal online"", ""browsed online shop"", ""read style magazine"", ""watched tutorial""]",6,4
+29,Bernard Leclerc,43,Female,Mali,Bamako,"[""travel"", ""politics"", ""sports"", ""music""]","[""downloaded music album"", ""played basketball"", ""visited museum""]",3,4
+30,Chiara Rossi,19,Female,Mali,Bamako,"[""science"", ""sports"", ""design""]","[""did chemistry experiment"", ""attended design meetup"", ""joined gym"", ""watched UX tutorial"", ""visited planetarium"", ""went jogging""]",6,3
